@@ -1,6 +1,6 @@
 # 🚀 MERN Invoice Generator
 
-![Demo Screenshot](./screenshots/demo.png)
+![Demo Screenshot](./screenshots/login.png)
 
 A full-stack Invoice Generator web app using the **MERN stack** (MongoDB, Express, React, Node) with PDF export, user authentication, and modern UI.
 
@@ -23,8 +23,8 @@ A full-stack Invoice Generator web app using the **MERN stack** (MongoDB, Expres
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="./screenshots/register.png" width="30%" alt="Register Screenshot" />
-  <img src="./screenshots/products.png" width="30%" alt="Products Screenshot" />
+  <img src="./screenshots/Register.png" width="30%" alt="Register Screenshot" />
+  <img src="./screenshots/product.png" width="30%" alt="Products Screenshot" />
   <img src="./screenshots/Generatepdf.png" width="30%" alt="PDF Generation Screenshot" />
 </div>
 
