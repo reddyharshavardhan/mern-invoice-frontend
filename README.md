@@ -25,7 +25,7 @@ A full-stack Invoice Generator web app using the **MERN stack** (MongoDB, Expres
 <div align="center">
   <img src="./screenshots/register.png" width="30%" alt="Register Screenshot" />
   <img src="./screenshots/products.png" width="30%" alt="Products Screenshot" />
-  <img src="./screenshots/pdfgen.png" width="30%" alt="PDF Generation Screenshot" />
+  <img src="./screenshots/Generatepdf.png" width="30%" alt="PDF Generation Screenshot" />
 </div>
 
 
